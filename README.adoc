@@ -32,6 +32,8 @@ image:https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f74
 Ce TP vise à être capable de compiler un fichier Java sans être dépendant de son IDE favori.
 Cela permet :
 
+
+
 - d'être indépendant de tout IDE
 - de faire construire l'application de manière automatique (c'est pour plus tard, mais c'est ce qu'on appelle l'intégration continue)
 
